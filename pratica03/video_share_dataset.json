@@ -1,0 +1,275 @@
+{"email": "admin7@cassandra.com", "name": "Admin7", "register_time": "2017-08-31 14:00:00.000Z", "username": "admin7"}
+ {"email": "admin11@cassandra.com", "name": "Admin11", "register_time": "2017-08-25 20:33:00.000Z", "username": "admin11"}
+    {"email": "admin5@cassandra.com", "name": "Admin5", "register_time": "2018-05-17 19:52:00.000Z", "username": "admin5"}
+    {"email": "admin2@cassandra.com", "name": "Admin2", "register_time": "2017-08-11 03:22:00.000Z", "username": "admin2"}
+    {"email": "admin0@cassandra.com", "name": "Admin0", "register_time": "2018-07-16 09:28:00.000Z", "username": "admin0"}
+ {"email": "admin12@cassandra.com", "name": "Admin12", "register_time": "2017-09-19 18:52:00.000Z", "username": "admin12"}
+    {"email": "admin8@cassandra.com", "name": "Admin8", "register_time": "2018-03-09 07:55:00.000Z", "username": "admin8"}
+ {"email": "admin14@cassandra.com", "name": "Admin14", "register_time": "2017-01-27 21:52:00.000Z", "username": "admin14"}
+    {"email": "admin3@cassandra.com", "name": "Admin3", "register_time": "2017-08-18 10:41:00.000Z", "username": "admin3"}
+    {"email": "admin4@cassandra.com", "name": "Admin4", "register_time": "2017-11-23 13:13:00.000Z", "username": "admin4"}
+    {"email": "admin9@cassandra.com", "name": "Admin9", "register_time": "2017-12-01 14:10:00.000Z", "username": "admin9"}
+    {"email": "admin6@cassandra.com", "name": "Admin6", "register_time": "2017-02-02 06:51:00.000Z", "username": "admin6"}
+ {"email": "admin10@cassandra.com", "name": "Admin10", "register_time": "2018-06-17 04:17:00.000Z", "username": "admin10"}
+ {"email": "admin13@cassandra.com", "name": "Admin13", "register_time": "2017-07-04 17:07:00.000Z", "username": "admin13"}
+    {"email": "admin1@cassandra.com", "name": "Admin1", "register_time": "2017-07-04 11:27:00.000Z", "username": "admin1"}
+
+{"author": "admin5@cassandra.com", "upload_time": "2018-07-16 12:04:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video15", "tags": ["gameplay", "cooking", "cooking", "comedy"]}
+        {"author": "admin5@cassandra.com", "upload_time": "2018-09-13 10:14:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video8", "tags": ["gamer", "aveiro", "music", "reaction"]}
+        {"author": "admin2@cassandra.com", "upload_time": "2017-09-03 01:23:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video18", "tags": ["aveiro", "gamer", "cooking", "gamer"]}
+    {"author": "admin12@cassandra.com", "upload_time": "2018-02-02 06:55:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video17", "tags": ["gameplay", "cooking", "comedy", "music"]}
+    {"author": "admin14@cassandra.com", "upload_time": "2017-08-23 18:56:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video12", "tags": ["reaction", "comedy", "cooking", "top10"]}
+          {"author": "admin14@cassandra.com", "upload_time": "2018-05-13 14:27:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video4", "tags": ["gamer", "gamer", "comedy", "music"]}
+   {"author": "admin3@cassandra.com", "upload_time": "2018-10-08 00:58:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video13", "tags": ["gamer", "gameplay", "cooking", "reaction"]}
+     {"author": "admin3@cassandra.com", "upload_time": "2018-11-30 03:13:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video9", "tags": ["reaction", "reaction", "music", "comedy"]}
+     {"author": "admin4@cassandra.com", "upload_time": "2018-02-22 03:05:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video5", "tags": ["comedy", "gameplay", "gameplay", "top10"]}
+       {"author": "admin4@cassandra.com", "upload_time": "2018-11-01 08:16:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video7", "tags": ["gameplay", "music", "music", "cooking"]}
+     {"author": "admin9@cassandra.com", "upload_time": "2018-08-03 18:46:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video16", "tags": ["reaction", "gamer", "music", "gameplay"]}
+       {"author": "admin6@cassandra.com", "upload_time": "2017-11-28 21:14:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video1", "tags": ["top10", "reaction", "comedy", "aveiro"]}
+    {"author": "admin10@cassandra.com", "upload_time": "2018-07-24 07:52:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video6", "tags": ["gameplay", "cooking", "comedy", "comedy"]}
+  {"author": "admin10@cassandra.com", "upload_time": "2018-08-09 03:39:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video19", "tags": ["cooking", "aveiro", "gameplay", "cooking"]}
+        {"author": "admin10@cassandra.com", "upload_time": "2018-08-25 01:27:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video2", "tags": ["reaction", "top10", "music", "music"]}
+    {"author": "admin10@cassandra.com", "upload_time": "2018-09-18 03:07:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video3", "tags": ["gameplay", "comedy", "top10", "gameplay"]}
+   {"author": "admin13@cassandra.com", "upload_time": "2017-08-26 08:54:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video11", "tags": ["cooking", "comedy", "top10", "lifestyle"]}
+ {"author": "admin13@cassandra.com", "upload_time": "2017-11-08 14:38:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video10", "tags": ["cooking", "cooking", "lifestyle", "aveiro"]}
+     {"author": "admin13@cassandra.com", "upload_time": "2017-12-07 19:07:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video0", "tags": ["cooking", "cooking", "cooking", "music"]}
+   {"author": "admin1@cassandra.com", "upload_time": "2018-06-07 18:41:00.000Z", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "name": "video14", "tags": ["gameplay", "gameplay", "music", "cooking"]}
+
+{"video": "video2", "post_time": "2018-11-15 16:23:00.000Z", "comment": "very good :)"}
+  {"video": "video2", "post_time": "2018-12-04 20:13:00.000Z", "comment": "very good :)"}
+  {"video": "video6", "post_time": "2018-07-30 06:21:00.000Z", "comment": "very good :)"}
+  {"video": "video0", "post_time": "2018-05-02 09:35:00.000Z", "comment": "very good :)"}
+  {"video": "video3", "post_time": "2018-10-06 08:31:00.000Z", "comment": "very good :)"}
+  {"video": "video3", "post_time": "2018-11-20 19:04:00.000Z", "comment": "very good :)"}
+ {"video": "video10", "post_time": "2018-01-22 07:43:00.000Z", "comment": "very good :)"}
+ {"video": "video10", "post_time": "2018-02-20 14:28:00.000Z", "comment": "very good :)"}
+ {"video": "video10", "post_time": "2018-02-25 15:13:00.000Z", "comment": "very good :)"}
+ {"video": "video19", "post_time": "2018-08-14 01:19:00.000Z", "comment": "very good :)"}
+ {"video": "video19", "post_time": "2018-09-10 12:09:00.000Z", "comment": "very good :)"}
+ {"video": "video19", "post_time": "2018-10-27 20:03:00.000Z", "comment": "very good :)"}
+ {"video": "video19", "post_time": "2018-10-28 17:07:00.000Z", "comment": "very good :)"}
+  {"video": "video9", "post_time": "2018-12-05 12:04:00.000Z", "comment": "very good :)"}
+  {"video": "video8", "post_time": "2018-10-13 16:34:00.000Z", "comment": "very good :)"}
+  {"video": "video5", "post_time": "2018-04-13 01:48:00.000Z", "comment": "very good :)"}
+ {"video": "video17", "post_time": "2018-02-07 12:31:00.000Z", "comment": "very good :)"}
+ {"video": "video17", "post_time": "2018-02-21 12:41:00.000Z", "comment": "very good :)"}
+  {"video": "video7", "post_time": "2018-12-17 23:29:00.000Z", "comment": "very good :)"}
+  {"video": "video1", "post_time": "2018-05-31 21:03:00.000Z", "comment": "very good :)"}
+  {"video": "video1", "post_time": "2018-06-26 14:46:00.000Z", "comment": "very good :)"}
+ {"video": "video14", "post_time": "2018-07-17 03:45:00.000Z", "comment": "very good :)"}
+ {"video": "video14", "post_time": "2018-12-11 12:28:00.000Z", "comment": "very good :)"}
+ {"video": "video14", "post_time": "2019-01-01 17:13:00.000Z", "comment": "very good :)"}
+ {"video": "video13", "post_time": "2018-11-22 20:17:00.000Z", "comment": "very good :)"}
+ {"video": "video18", "post_time": "2017-11-06 06:27:00.000Z", "comment": "very good :)"}
+ {"video": "video16", "post_time": "2018-09-08 03:25:00.000Z", "comment": "very good :)"}
+ {"video": "video16", "post_time": "2018-09-08 08:14:00.000Z", "comment": "very good :)"}
+ {"video": "video16", "post_time": "2018-09-21 21:54:00.000Z", "comment": "very good :)"}
+ {"video": "video16", "post_time": "2018-12-10 00:32:00.000Z", "comment": "very good :)"}
+
+{"user": "admin7@cassandra.com", "post_time": "2018-04-13 01:48:00.000Z", "comment": "very good :)"}
+  {"user": "admin7@cassandra.com", "post_time": "2018-09-21 21:54:00.000Z", "comment": "very good :)"}
+  {"user": "admin7@cassandra.com", "post_time": "2019-01-01 17:13:00.000Z", "comment": "very good :)"}
+  {"user": "admin5@cassandra.com", "post_time": "2018-12-05 12:04:00.000Z", "comment": "very good :)"}
+  {"user": "admin5@cassandra.com", "post_time": "2018-12-11 12:28:00.000Z", "comment": "very good :)"}
+  {"user": "admin2@cassandra.com", "post_time": "2018-11-15 16:23:00.000Z", "comment": "very good :)"}
+  {"user": "admin0@cassandra.com", "post_time": "2018-02-25 15:13:00.000Z", "comment": "very good :)"}
+  {"user": "admin0@cassandra.com", "post_time": "2018-09-10 12:09:00.000Z", "comment": "very good :)"}
+  {"user": "admin0@cassandra.com", "post_time": "2018-12-10 00:32:00.000Z", "comment": "very good :)"}
+ {"user": "admin12@cassandra.com", "post_time": "2018-02-21 12:41:00.000Z", "comment": "very good :)"}
+ {"user": "admin12@cassandra.com", "post_time": "2018-10-28 17:07:00.000Z", "comment": "very good :)"}
+  {"user": "admin8@cassandra.com", "post_time": "2018-05-31 21:03:00.000Z", "comment": "very good :)"}
+ {"user": "admin14@cassandra.com", "post_time": "2018-07-30 06:21:00.000Z", "comment": "very good :)"}
+ {"user": "admin14@cassandra.com", "post_time": "2018-12-04 20:13:00.000Z", "comment": "very good :)"}
+  {"user": "admin3@cassandra.com", "post_time": "2018-02-20 14:28:00.000Z", "comment": "very good :)"}
+  {"user": "admin3@cassandra.com", "post_time": "2018-10-27 20:03:00.000Z", "comment": "very good :)"}
+  {"user": "admin3@cassandra.com", "post_time": "2018-12-17 23:29:00.000Z", "comment": "very good :)"}
+  {"user": "admin4@cassandra.com", "post_time": "2018-02-07 12:31:00.000Z", "comment": "very good :)"}
+  {"user": "admin9@cassandra.com", "post_time": "2018-09-08 08:14:00.000Z", "comment": "very good :)"}
+  {"user": "admin6@cassandra.com", "post_time": "2018-08-14 01:19:00.000Z", "comment": "very good :)"}
+  {"user": "admin6@cassandra.com", "post_time": "2018-10-13 16:34:00.000Z", "comment": "very good :)"}
+ {"user": "admin10@cassandra.com", "post_time": "2018-05-02 09:35:00.000Z", "comment": "very good :)"}
+ {"user": "admin10@cassandra.com", "post_time": "2018-06-26 14:46:00.000Z", "comment": "very good :)"}
+ {"user": "admin10@cassandra.com", "post_time": "2018-10-06 08:31:00.000Z", "comment": "very good :)"}
+ {"user": "admin10@cassandra.com", "post_time": "2018-11-22 20:17:00.000Z", "comment": "very good :)"}
+ {"user": "admin13@cassandra.com", "post_time": "2017-11-06 06:27:00.000Z", "comment": "very good :)"}
+ {"user": "admin13@cassandra.com", "post_time": "2018-01-22 07:43:00.000Z", "comment": "very good :)"}
+ {"user": "admin13@cassandra.com", "post_time": "2018-09-08 03:25:00.000Z", "comment": "very good :)"}
+  {"user": "admin1@cassandra.com", "post_time": "2018-07-17 03:45:00.000Z", "comment": "very good :)"}
+  {"user": "admin1@cassandra.com", "post_time": "2018-11-20 19:04:00.000Z", "comment": "very good :)"}
+
+{"video": "video2", "user": "admin10@cassandra.com"}
+   {"video": "video2", "user": "admin9@cassandra.com"}
+   {"video": "video6", "user": "admin0@cassandra.com"}
+  {"video": "video0", "user": "admin11@cassandra.com"}
+ {"video": "video10", "user": "admin14@cassandra.com"}
+  {"video": "video10", "user": "admin8@cassandra.com"}
+ {"video": "video19", "user": "admin10@cassandra.com"}
+ {"video": "video19", "user": "admin11@cassandra.com"}
+  {"video": "video19", "user": "admin2@cassandra.com"}
+  {"video": "video19", "user": "admin6@cassandra.com"}
+  {"video": "video4", "user": "admin11@cassandra.com"}
+   {"video": "video4", "user": "admin5@cassandra.com"}
+   {"video": "video4", "user": "admin8@cassandra.com"}
+ {"video": "video15", "user": "admin12@cassandra.com"}
+  {"video": "video9", "user": "admin10@cassandra.com"}
+  {"video": "video8", "user": "admin12@cassandra.com"}
+  {"video": "video5", "user": "admin13@cassandra.com"}
+   {"video": "video5", "user": "admin1@cassandra.com"}
+   {"video": "video5", "user": "admin4@cassandra.com"}
+   {"video": "video5", "user": "admin6@cassandra.com"}
+   {"video": "video5", "user": "admin8@cassandra.com"}
+ {"video": "video17", "user": "admin14@cassandra.com"}
+  {"video": "video17", "user": "admin8@cassandra.com"}
+   {"video": "video7", "user": "admin2@cassandra.com"}
+   {"video": "video7", "user": "admin6@cassandra.com"}
+   {"video": "video7", "user": "admin7@cassandra.com"}
+  {"video": "video1", "user": "admin10@cassandra.com"}
+ {"video": "video14", "user": "admin11@cassandra.com"}
+  {"video": "video13", "user": "admin5@cassandra.com"}
+  {"video": "video13", "user": "admin8@cassandra.com"}
+  {"video": "video18", "user": "admin5@cassandra.com"}
+ {"video": "video12", "user": "admin11@cassandra.com"}
+ {"video": "video12", "user": "admin12@cassandra.com"}
+  {"video": "video11", "user": "admin2@cassandra.com"}
+
+{"video": "video3", "user": "admin14@cassandra.com", "event_time": "2018-12-17 02:30:00.000Z", "event": "stop", "vid_time": 221}
+    {"video": "video2", "user": "admin6@cassandra.com", "event_time": "2018-09-18 19:56:00.000Z", "event": "stop", "vid_time": 248}
+  {"video": "video18", "user": "admin7@cassandra.com", "event_time": "2018-10-01 06:20:00.000Z", "event": "pause", "vid_time": 203}
+    {"video": "video3", "user": "admin1@cassandra.com", "event_time": "2018-10-15 14:46:00.000Z", "event": "stop", "vid_time": 360}
+    {"video": "video8", "user": "admin8@cassandra.com", "event_time": "2018-10-07 15:28:00.000Z", "event": "stop", "vid_time": 414}
+    {"video": "video0", "user": "admin8@cassandra.com", "event_time": "2018-10-22 15:57:00.000Z", "event": "play", "vid_time": 587}
+  {"video": "video18", "user": "admin0@cassandra.com", "event_time": "2018-04-03 15:59:00.000Z", "event": "pause", "vid_time": 388}
+    {"video": "video8", "user": "admin4@cassandra.com", "event_time": "2018-09-25 22:37:00.000Z", "event": "play", "vid_time": 267}
+   {"video": "video4", "user": "admin13@cassandra.com", "event_time": "2018-12-29 02:08:00.000Z", "event": "stop", "vid_time": 152}
+   {"video": "video8", "user": "admin12@cassandra.com", "event_time": "2018-11-12 14:52:00.000Z", "event": "play", "vid_time": 525}
+   {"video": "video3", "user": "admin5@cassandra.com", "event_time": "2019-01-01 21:00:00.000Z", "event": "pause", "vid_time": 482}
+   {"video": "video3", "user": "admin9@cassandra.com", "event_time": "2018-10-06 17:13:00.000Z", "event": "pause", "vid_time": 189}
+  {"video": "video14", "user": "admin5@cassandra.com", "event_time": "2018-06-14 20:29:00.000Z", "event": "pause", "vid_time": 156}
+   {"video": "video2", "user": "admin11@cassandra.com", "event_time": "2018-09-28 23:24:00.000Z", "event": "stop", "vid_time": 434}
+  {"video": "video7", "user": "admin11@cassandra.com", "event_time": "2018-11-24 01:07:00.000Z", "event": "pause", "vid_time": 337}
+  {"video": "video5", "user": "admin14@cassandra.com", "event_time": "2018-05-03 10:38:00.000Z", "event": "pause", "vid_time": 425}
+   {"video": "video4", "user": "admin11@cassandra.com", "event_time": "2018-08-03 15:53:00.000Z", "event": "stop", "vid_time": 260}
+   {"video": "video12", "user": "admin0@cassandra.com", "event_time": "2018-10-25 22:03:00.000Z", "event": "pause", "vid_time": 80}
+   {"video": "video5", "user": "admin4@cassandra.com", "event_time": "2018-07-20 23:19:00.000Z", "event": "pause", "vid_time": 135}
+    {"video": "video5", "user": "admin5@cassandra.com", "event_time": "2018-11-05 10:49:00.000Z", "event": "play", "vid_time": 556}
+    {"video": "video4", "user": "admin3@cassandra.com", "event_time": "2018-08-02 14:32:00.000Z", "event": "play", "vid_time": 217}
+    {"video": "video4", "user": "admin5@cassandra.com", "event_time": "2018-08-13 07:24:00.000Z", "event": "pause", "vid_time": 22}
+  {"video": "video10", "user": "admin4@cassandra.com", "event_time": "2018-12-18 10:21:00.000Z", "event": "pause", "vid_time": 202}
+     {"video": "video0", "user": "admin5@cassandra.com", "event_time": "2018-05-09 14:30:00.000Z", "event": "play", "vid_time": 15}
+   {"video": "video11", "user": "admin3@cassandra.com", "event_time": "2018-09-16 23:46:00.000Z", "event": "stop", "vid_time": 286}
+ {"video": "video17", "user": "admin10@cassandra.com", "event_time": "2018-11-09 12:22:00.000Z", "event": "pause", "vid_time": 544}
+   {"video": "video15", "user": "admin3@cassandra.com", "event_time": "2018-09-28 05:14:00.000Z", "event": "stop", "vid_time": 425}
+  {"video": "video11", "user": "admin14@cassandra.com", "event_time": "2018-04-26 06:27:00.000Z", "event": "play", "vid_time": 362}
+    {"video": "video4", "user": "admin6@cassandra.com", "event_time": "2018-11-06 00:44:00.000Z", "event": "play", "vid_time": 123}
+   {"video": "video12", "user": "admin4@cassandra.com", "event_time": "2018-11-29 01:50:00.000Z", "event": "pause", "vid_time": 11}
+   {"video": "video19", "user": "admin5@cassandra.com", "event_time": "2018-12-29 16:07:00.000Z", "event": "play", "vid_time": 425}
+    {"video": "video16", "user": "admin8@cassandra.com", "event_time": "2018-12-24 05:07:00.000Z", "event": "play", "vid_time": 83}
+  {"video": "video19", "user": "admin12@cassandra.com", "event_time": "2018-09-29 05:13:00.000Z", "event": "play", "vid_time": 554}
+    {"video": "video5", "user": "admin2@cassandra.com", "event_time": "2018-06-23 06:28:00.000Z", "event": "play", "vid_time": 276}
+    {"video": "video5", "user": "admin2@cassandra.com", "event_time": "2018-09-27 23:11:00.000Z", "event": "play", "vid_time": 394}
+   {"video": "video11", "user": "admin9@cassandra.com", "event_time": "2018-12-09 19:10:00.000Z", "event": "play", "vid_time": 197}
+   {"video": "video18", "user": "admin3@cassandra.com", "event_time": "2017-10-01 12:23:00.000Z", "event": "play", "vid_time": 544}
+  {"video": "video12", "user": "admin1@cassandra.com", "event_time": "2018-10-03 16:03:00.000Z", "event": "pause", "vid_time": 504}
+ {"video": "video18", "user": "admin12@cassandra.com", "event_time": "2017-11-07 15:40:00.000Z", "event": "pause", "vid_time": 333}
+    {"video": "video8", "user": "admin9@cassandra.com", "event_time": "2018-10-16 12:30:00.000Z", "event": "stop", "vid_time": 537}
+   {"video": "video11", "user": "admin8@cassandra.com", "event_time": "2018-07-29 20:20:00.000Z", "event": "pause", "vid_time": 37}
+   {"video": "video5", "user": "admin13@cassandra.com", "event_time": "2018-09-15 19:21:00.000Z", "event": "play", "vid_time": 583}
+    {"video": "video5", "user": "admin13@cassandra.com", "event_time": "2018-12-28 04:22:00.000Z", "event": "stop", "vid_time": 24}
+   {"video": "video12", "user": "admin7@cassandra.com", "event_time": "2018-01-31 00:07:00.000Z", "event": "play", "vid_time": 191}
+ {"video": "video17", "user": "admin11@cassandra.com", "event_time": "2018-07-18 06:47:00.000Z", "event": "pause", "vid_time": 444}
+   {"video": "video11", "user": "admin6@cassandra.com", "event_time": "2018-04-17 23:18:00.000Z", "event": "play", "vid_time": 525}
+   {"video": "video17", "user": "admin1@cassandra.com", "event_time": "2018-04-08 11:55:00.000Z", "event": "stop", "vid_time": 110}
+   {"video": "video7", "user": "admin12@cassandra.com", "event_time": "2018-12-13 18:43:00.000Z", "event": "stop", "vid_time": 252}
+    {"video": "video9", "user": "admin4@cassandra.com", "event_time": "2018-12-14 23:12:00.000Z", "event": "stop", "vid_time": 156}
+     {"video": "video9", "user": "admin4@cassandra.com", "event_time": "2018-12-28 18:06:00.000Z", "event": "play", "vid_time": 60}
+  {"video": "video12", "user": "admin14@cassandra.com", "event_time": "2018-03-31 22:44:00.000Z", "event": "play", "vid_time": 581}
+  {"video": "video12", "user": "admin14@cassandra.com", "event_time": "2018-12-01 19:15:00.000Z", "event": "play", "vid_time": 584}
+     {"video": "video7", "user": "admin7@cassandra.com", "event_time": "2018-11-15 08:02:00.000Z", "event": "stop", "vid_time": 87}
+     {"video": "video7", "user": "admin7@cassandra.com", "event_time": "2018-11-29 05:43:00.000Z", "event": "stop", "vid_time": 75}
+   {"video": "video5", "user": "admin10@cassandra.com", "event_time": "2018-04-18 15:28:00.000Z", "event": "stop", "vid_time": 189}
+ {"video": "video15", "user": "admin10@cassandra.com", "event_time": "2018-11-21 14:44:00.000Z", "event": "pause", "vid_time": 600}
+   {"video": "video4", "user": "admin4@cassandra.com", "event_time": "2018-10-22 20:51:00.000Z", "event": "pause", "vid_time": 270}
+    {"video": "video4", "user": "admin4@cassandra.com", "event_time": "2018-11-26 16:03:00.000Z", "event": "play", "vid_time": 410}
+ {"video": "video10", "user": "admin11@cassandra.com", "event_time": "2017-11-17 15:23:00.000Z", "event": "pause", "vid_time": 106}
+    {"video": "video1", "user": "admin7@cassandra.com", "event_time": "2018-01-20 11:41:00.000Z", "event": "play", "vid_time": 237}
+   {"video": "video0", "user": "admin13@cassandra.com", "event_time": "2018-04-05 17:54:00.000Z", "event": "stop", "vid_time": 393}
+  {"video": "video18", "user": "admin1@cassandra.com", "event_time": "2018-09-10 18:50:00.000Z", "event": "pause", "vid_time": 379}
+    {"video": "video8", "user": "admin6@cassandra.com", "event_time": "2018-11-09 17:09:00.000Z", "event": "stop", "vid_time": 109}
+  {"video": "video14", "user": "admin14@cassandra.com", "event_time": "2018-08-27 12:06:00.000Z", "event": "stop", "vid_time": 292}
+   {"video": "video6", "user": "admin4@cassandra.com", "event_time": "2018-12-16 20:00:00.000Z", "event": "pause", "vid_time": 537}
+    {"video": "video5", "user": "admin3@cassandra.com", "event_time": "2018-07-01 20:21:00.000Z", "event": "play", "vid_time": 453}
+   {"video": "video5", "user": "admin7@cassandra.com", "event_time": "2018-12-22 06:21:00.000Z", "event": "pause", "vid_time": 569}
+   {"video": "video13", "user": "admin2@cassandra.com", "event_time": "2018-12-14 10:45:00.000Z", "event": "stop", "vid_time": 450}
+    {"video": "video19", "user": "admin9@cassandra.com", "event_time": "2018-10-13 05:58:00.000Z", "event": "play", "vid_time": 57}
+  {"video": "video4", "user": "admin10@cassandra.com", "event_time": "2018-11-01 01:03:00.000Z", "event": "pause", "vid_time": 145}
+   {"video": "video1", "user": "admin5@cassandra.com", "event_time": "2018-02-09 13:20:00.000Z", "event": "pause", "vid_time": 329}
+     {"video": "video2", "user": "admin1@cassandra.com", "event_time": "2018-09-29 10:02:00.000Z", "event": "stop", "vid_time": 52}
+   {"video": "video18", "user": "admin5@cassandra.com", "event_time": "2018-12-31 15:44:00.000Z", "event": "pause", "vid_time": 64}
+   {"video": "video19", "user": "admin7@cassandra.com", "event_time": "2018-12-19 05:40:00.000Z", "event": "stop", "vid_time": 289}
+   {"video": "video6", "user": "admin14@cassandra.com", "event_time": "2018-08-15 07:10:00.000Z", "event": "stop", "vid_time": 441}
+   {"video": "video1", "user": "admin4@cassandra.com", "event_time": "2018-05-15 04:06:00.000Z", "event": "pause", "vid_time": 125}
+    {"video": "video3", "user": "admin4@cassandra.com", "event_time": "2018-11-15 15:28:00.000Z", "event": "play", "vid_time": 108}
+    {"video": "video3", "user": "admin4@cassandra.com", "event_time": "2018-11-26 15:32:00.000Z", "event": "play", "vid_time": 357}
+  {"video": "video14", "user": "admin10@cassandra.com", "event_time": "2018-07-13 16:10:00.000Z", "event": "play", "vid_time": 532}
+   {"video": "video16", "user": "admin0@cassandra.com", "event_time": "2018-11-01 12:33:00.000Z", "event": "stop", "vid_time": 249}
+
+{"video": "video2", "id": 3, "value": 1}
+   {"video": "video2", "id": 9, "value": 3}
+  {"video": "video2", "id": 11, "value": 2}
+  {"video": "video2", "id": 13, "value": 3}
+  {"video": "video2", "id": 19, "value": 4}
+  {"video": "video2", "id": 25, "value": 2}
+  {"video": "video2", "id": 40, "value": 1}
+  {"video": "video2", "id": 42, "value": 3}
+  {"video": "video6", "id": 20, "value": 5}
+  {"video": "video6", "id": 35, "value": 2}
+  {"video": "video6", "id": 53, "value": 4}
+  {"video": "video0", "id": 39, "value": 3}
+  {"video": "video0", "id": 55, "value": 2}
+  {"video": "video3", "id": 16, "value": 1}
+  {"video": "video3", "id": 43, "value": 3}
+  {"video": "video3", "id": 54, "value": 2}
+ {"video": "video10", "id": 10, "value": 4}
+ {"video": "video10", "id": 23, "value": 5}
+ {"video": "video10", "id": 24, "value": 4}
+ {"video": "video10", "id": 28, "value": 5}
+ {"video": "video10", "id": 29, "value": 3}
+ {"video": "video10", "id": 44, "value": 4}
+  {"video": "video19", "id": 0, "value": 1}
+  {"video": "video19", "id": 7, "value": 2}
+ {"video": "video19", "id": 47, "value": 3}
+   {"video": "video4", "id": 6, "value": 1}
+  {"video": "video4", "id": 33, "value": 2}
+ {"video": "video15", "id": 32, "value": 3}
+  {"video": "video9", "id": 41, "value": 2}
+  {"video": "video8", "id": 30, "value": 4}
+  {"video": "video8", "id": 58, "value": 2}
+   {"video": "video5", "id": 4, "value": 4}
+  {"video": "video5", "id": 12, "value": 2}
+  {"video": "video5", "id": 15, "value": 3}
+  {"video": "video5", "id": 45, "value": 1}
+ {"video": "video17", "id": 17, "value": 4}
+ {"video": "video17", "id": 34, "value": 2}
+ {"video": "video17", "id": 52, "value": 5}
+  {"video": "video7", "id": 46, "value": 1}
+  {"video": "video7", "id": 49, "value": 1}
+  {"video": "video7", "id": 51, "value": 1}
+  {"video": "video7", "id": 59, "value": 5}
+  {"video": "video1", "id": 31, "value": 2}
+  {"video": "video1", "id": 38, "value": 1}
+  {"video": "video1", "id": 50, "value": 4}
+ {"video": "video14", "id": 57, "value": 2}
+  {"video": "video13", "id": 1, "value": 4}
+  {"video": "video13", "id": 8, "value": 2}
+ {"video": "video18", "id": 21, "value": 4}
+  {"video": "video12", "id": 2, "value": 4}
+  {"video": "video12", "id": 5, "value": 2}
+ {"video": "video12", "id": 14, "value": 2}
+ {"video": "video16", "id": 27, "value": 5}
+ {"video": "video16", "id": 37, "value": 1}
+ {"video": "video16", "id": 48, "value": 2}
+ {"video": "video11", "id": 18, "value": 2}
+ {"video": "video11", "id": 22, "value": 4}
+ {"video": "video11", "id": 26, "value": 2}
+ {"video": "video11", "id": 36, "value": 5}
+ {"video": "video11", "id": 56, "value": 3}

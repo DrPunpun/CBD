@@ -1,0 +1,75 @@
+ping
+pong
+ping
+SET nk "the redis string"
+GET nk
+SET nk "5"
+get nk
+incr nk "1"
+incr nk
+get nk
+SET nk 1
+incr nk
+incrby nk 5
+expire nk 1
+get nk
+set list reddis
+get list
+lpush list mongodb
+del list
+lpush list redis
+lpush list mongodb
+lpush list rabitmq
+lrange list 0 10
+rpush list db
+lrange list 0 10
+ltrim list 1 3
+lrange list 0 10
+sadd list redis
+del list
+sadd list redis
+sadd list mongodb
+smembers
+smembers list
+sadd list rabbitmq db 
+smembers list
+sismember list lol
+sismember list db
+zadd olist redis
+zadd olist 0 redis
+zadd olist 5 redis
+zadd olist 5 rabbit
+zrevrange olist 0 100
+zadd olist 3 mongodb
+zrevrange olist 0 100
+zrange olist 0 100
+del olist
+del all
+del list
+sadd list a b c e d
+smembers list 
+del list
+sadd list 1 2 3 6 5 4
+smembers list 
+del list
+lpush list 1
+lpsuh list 2
+lpush list 2
+lpush list 3
+lrange list 2 2
+lrange 0 -1
+lrange list 0 -1
+hmset user username redis password redis 
+hmget user
+hmget user 0 -1
+del user
+hmset user:1 username redis password redis 
+hmget user
+hmget user:1
+hmgetall user:1
+hgetall user:1
+hmget user:1 0 -1
+hkeys user:1
+hget user:1 username
+hmget user:1 username password
+
